@@ -3,6 +3,9 @@ Ruby exercises
 1. [Week 1](https://github.com/iamkots/ruby/blob/master/BaiTap1_Hoang%20Nhat%20Quan_20111987_LopVN6A.rb)
 2. [Week 2](https://github.com/iamkots/ruby/blob/master/BaiTap2_Hoang%20Nhat%20Quan_20111987_LopVN6A.rb)
 3. [Week 3 - Rails Demo app](https://github.com/iamkots/ruby/tree/master/demo_app)
+4. [Week 4](https://github.com/iamkots/ruby/tree/master/sample_app)
+5. [Week 5](https://github.com/iamkots/ruby/tree/master/sample_app)
+
 
 ====
 
