@@ -6,6 +6,7 @@ Ruby exercises
 4. [Week 5](https://github.com/iamkots/ruby/tree/master/sample_app)
 5. [Week 7](https://github.com/iamkots/ruby/tree/master/login-page)
 6. [Week 8](https://github.com/iamkots/ruby/tree/master/login-logout)
+7. [Week 9](https://github.com/iamkots/ruby/tree/master/update_user)
 
 
 ====
